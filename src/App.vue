@@ -50,7 +50,7 @@
         coluna:null,
         html: {
           div: "text-center text-5xl font-bold flex flex-wrap flex-col items-center space-y-2",
-          input: "input md:w-20 md:h-20 w-14 h-14 text-5xl font-bold text-center",
+          input: "input md:w-20 md:h-20 w-14 h-14 text-2xl md:text-5xl font-bold text-center",
           type: "number",
           min: "0",
           max: "99",
